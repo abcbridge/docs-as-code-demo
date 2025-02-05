@@ -5,8 +5,8 @@ Use a sheet of paper to tell a fascinating story.
 
 The story reveals:
 
-* how a ship sank during a thunderstorm
-* and how we know which time of the year it was when the ship sank.
+* How a ship sank during a thunderstorm
+* And how we know which time of the year it was when the ship sank
 
 The story is both engaging for children and inspiring for adults. Especially when they try to solve the mystery of the paper artefacts that result from the story.
 
