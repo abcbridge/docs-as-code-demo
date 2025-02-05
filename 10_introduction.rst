@@ -1,4 +1,4 @@
-Tell ME a story with just a sheet of paper
+Tell a story with just a sheet of paper
 ==========================================
 
 Use a sheet of paper to tell a fascinating story. 
