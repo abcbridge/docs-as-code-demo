@@ -2,7 +2,7 @@
 
 .. _chapter-hat:
 
-Hallo Webinar :)
+Folding a paper hat
 ====================
 
 With a paper hat, you are ready to fold a paper boat. Or have a hat party!
