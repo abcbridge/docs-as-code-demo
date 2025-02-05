@@ -63,11 +63,11 @@ html_static_path = ['_static']
 
 # -- Options for EPUB output -------------------------------------------------
 
-epub_basename = 'AnitaLueders_18174787_EL6082_DigitalArtefact'
+epub_basename = 'unfolding_the_paper_boat'
 
-epub_title = 'EL6082 E-Book/ Digital Artefact Assignment'
+epub_title = 'Unfolding the Paper Boat: The Story of the Captain's Shirt'
 
-epub_description = 'Digital Artefact submitted for the EL6082 assignment of the MA Technical Communication and E-Learning programme at the University of Limerick. An e-book with instructions for folding a paper boat and telling a story with it.'
+epub_description = 'An e-book with instructions for folding a paper boat and telling a story with it.'
 
 epub_author = 'Anita Lueders'
 
