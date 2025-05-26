@@ -65,7 +65,7 @@ html_static_path = ['_static']
 
 epub_basename = 'unfolding_the_paper_boat'
 
-epub_title = 'Unfolding the Paper Boat: The Story of the Captain's Shirt'
+epub_title = 'Unfolding the Paper Boat'
 
 epub_description = 'An e-book with instructions for folding a paper boat and telling a story with it.'
 
