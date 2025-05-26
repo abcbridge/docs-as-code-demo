@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Sphinx documentation
+_build/
+build/
+make.bat
+Makefile
+*.yaml
+
 # User-specific files
 *.rsuser
 *.suo
