@@ -2,7 +2,7 @@
 
 .. _chapter-story:
 
-Telling the story of the captain's shirt
+Telling the story of the captain's shirt :)
 ===========================================
 
 Fascinate your audience with a simple yet engaging story.
