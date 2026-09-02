@@ -1,7 +1,7 @@
 Tell a story with just a sheet of paper
 ==========================================
 
-Use a sheet of paper to tell a fascinating story. 
+Use a sheet of *paper* to tell a fascinating story. 
 
 The story reveals:
 
